@@ -1,0 +1,5 @@
+# Task 1: Digital Literacy Infographic
+
+You can view my full infographic created on Canva by clicking the link below:
+
+https://www.canva.com/design/DAHFOXPwVc/LmQdSXe7bFCwKzmt1bQAzQ/editui=eyJBIjp7fX0&referrer=https%3A%2F%2Fwww.canva.com%2Fs%2Ftemplates%3Fquery%3DDigital%2BSkills%2BRoadmap%26adj%3DeyJFIjp7IkEiOiJ0QUNGYWh6TmhUNCJ9LCJEIjp7IkEiOiJEaWdpdGFsIiwiQiI6IlNUWUxFX0RJR0lUQUwifSwiSSI6eyJBIjoiZW4ifX0
