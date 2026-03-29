@@ -5,7 +5,7 @@ This folder contains proof of technical practice and cloud-based collaboration t
 ### 📂 Folder Contents:
 * **HackerRank:** `hackerrank-challenge.png` (Proof of Python coding task)
 * **Google Forms:** `quiz-screenshot.png` (Digital Literacy Awareness Quiz)
-* **Quiz Link:** https://docs.google.com/forms/d/1cek2RGw_2AJuRAE0V19gqOvCEn2bcHSSJAAsMbBHoCc/edit
+* **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSe0_xJms85j6qRiqSPiEaFl6Y6Evkvxdeyknr423PQdiAwBTg/viewform?usp=publish-editor
 * **Respose sheet:** `Response-sheet-screenshot`(Responses of Digital Literacy Awareness Quiz)
 
 ### 🎯 Objective:
