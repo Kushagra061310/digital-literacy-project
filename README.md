@@ -55,6 +55,3 @@ The complete written report, including all technical observations and personal r
 - **Design:** Canva
 - **Collaboration:** Google Workspace (Forms/Sheets) 
 - **Technical Practice:** HackerRank
-- [cite_start]**Design:** Canva [cite: 116]
-- [cite_start]**Collaboration:** Google Workspace (Forms/Sheets) [cite: 117]
-- [cite_start]**Technical Practice:** HackerRank [cite: 117]
