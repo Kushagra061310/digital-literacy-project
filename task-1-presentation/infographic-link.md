@@ -2,4 +2,4 @@
 
 You can view my full infographic created on Canva by clicking the link below:
 
-https://www.canva.com/design/DAHFOXPwVc/LmQdSXe7bFCwKzmt1bQAzQ/editui=eyJBIjp7fX0&referrer=https%3A%2F%2Fwww.canva.com%2Fs%2Ftemplates%3Fquery%3DDigital%2BSkills%2BRoadmap%26adj%3DeyJFIjp7IkEiOiJ0QUNGYWh6TmhUNCJ9LCJEIjp7IkEiOiJEaWdpdGFsIiwiQiI6IlNUWUxFX0RJR0lUQUwifSwiSSI6eyJBIjoiZW4ifX0
+https://www.canva.com/design/DAHFOX-PwVc/fnih98eLMHLSJFZSiXjolA/watch?utm_content=DAHFOX-PwVc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb155dc7331
