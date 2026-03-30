@@ -45,7 +45,7 @@ As a Student Digital Ambassador at VIT Bhopal University, my role is to help pee
 
 ## 📜 Final Project Report
 The complete written report, including all technical observations and personal reflections, is available in the report folder.
-- **Full Report:** file:///C:/Users/Asus/OneDrive/Documents/Project_Report.pdf
+- **Full Report:** Project_Report.pdf
 
 ---
 
